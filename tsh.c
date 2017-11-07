@@ -1,7 +1,7 @@
 /* 
  * tsh - A tiny shell program with job control
- * 
- *  201601976 : 김주하
+ *  학번: 201601976
+ *  이름: 김주하
  */
 #include <stdio.h>
 #include <stdlib.h>
